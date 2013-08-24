@@ -1,2 +1,2 @@
 <?php
- = bear;
+$user = bear;
